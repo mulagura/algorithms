@@ -1,3 +1,5 @@
 https://coderbyte.com/challenges#easyChals
 https://www.youtube.com/playlist?list=PLkBfv4fGBau-q9tGBUgVoGClRsSBiiZm8
+https://learn.freecodecamp.org/
+  -> Basic Data Structures -> Basic Algorithm Scripting -> JavaScript Algorithms and Data Structures Projects
 https://www.w3resource.com/javascript-exercises/
