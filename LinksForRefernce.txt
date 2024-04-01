@@ -1,5 +1,10 @@
-https://coderbyte.com/challenges#easyChals
 https://www.youtube.com/playlist?list=PLkBfv4fGBau-q9tGBUgVoGClRsSBiiZm8
-https://learn.freecodecamp.org/
-  -> Basic Data Structures -> Basic Algorithm Scripting -> JavaScript Algorithms and Data Structures Projects
-https://www.w3resource.com/javascript-exercises/
+
+
+
+Plan: 
+
+1. Complete this series, check and update each file with associated js code files
+https://www.youtube.com/playlist?list=PLkBfv4fGBau-q9tGBUgVoGClRsSBiiZm8
+
+2. 
